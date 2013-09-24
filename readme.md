@@ -24,9 +24,9 @@ interactions
 
 ideas for shooting locations
 
- * matthieu's house, phil's house
- * mom's (or dad's) school
- * university building
+ * matthieu's house (friday?), phil's house (sunday?)
+ * mom's (or dad's) school (sat?)
+ * university building (sat?)
  * church? ...
 
 
